@@ -6,49 +6,31 @@ import Breadcrumbs from "@/components/breadcrumbs"
 
 const travelStories = [
   {
-    id: "destination-guides",
-    title: "Destination Guides",
+    id: "cultural etiquette",
+    title: "Why Würzburg Should Be Every Family’s Next Europe Stop",
     description:
-      "Tailored itineraries and immersive city and country guides from assignments with Matador Network and Lonely Planet.",
+      "A family exploring the historic town of Würzburg, Germany with views of old bridges, baroque buildings, and a riverside fortress.",
     image: "/images/destination-guides.jpg",
     alt: "A bustling street market with colorful stalls",
     stories: 14,
   },
   {
-    id: "cultural-etiquette",
-    title: "Cultural Etiquette & Local Insights",
+    id: "travel tips",
+    title: "How Savvy Travelers Score Airline Upgrades for Almost Free",
     description:
-      "Pieces that explore local customs, traditions, and cultural do’s and don’ts — helping travelers connect authentically.",
+      "A smiling traveler relaxing in an upgraded airline seat with a drink and carry-on bag, representing affordable flight upgrade success.",
     image: "/images/cultural-etiquette.jpg",
     alt: "Locals participating in a vibrant traditional festival",
     stories: 9,
   },
   {
-    id: "eco-slow-travel",
-    title: "Eco & Slow Travel",
+    id: "destination guides",
+    title: "10 U.S. Coastal Towns That Feel Straight Out Of The Mediterranean",
     description:
-      "Essays and guides on sustainable tourism, slow travel, and budget-friendly ways to explore the world.",
+      "A sunny coastal town in the United States with Mediterranean-style architecture, featuring bright stucco buildings and ocean views.",
     image: "/images/eco-travel.jpg",
     alt: "Backpacker walking through a lush forest trail",
     stories: 7,
-  },
-  {
-    id: "hospitality-reviews",
-    title: "Hotel Reviews & Hospitality",
-    description:
-      "Detailed hotel reviews and hospitality content crafted to showcase unique stays and experiences.",
-    image: "/images/hospitality.jpg",
-    alt: "Beautiful boutique hotel lounge area",
-    stories: 6,
-  },
-  {
-    id: "travel-gear-lifestyle",
-    title: "Travel Gear & Lifestyle",
-    description:
-      "Content marketing and product storytelling from her time at WanderBright, blending travel gear insights with lifestyle narratives.",
-    image: "/images/travel-gear.jpg",
-    alt: "Flatlay of essential travel gear items on a wooden table",
-    stories: 5,
   },
 ]
 
